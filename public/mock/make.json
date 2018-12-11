@@ -1,0 +1,191 @@
+{
+  "informationOne": [
+    [{
+        "title": "Libman制造商",
+        "subTitle": "衣物/家庭清洁 清洁/收纳",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/1F/2D/rBACW1ntgAKAe3cXAACQTMP_spw609.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/1F/6F/rBACW1nwWBCAYLrTAACa3m1rYPk272.jpg",
+        "isBorder": true,
+        "id": 0
+      },
+      {
+        "title": "依视路集团旗下制造商",
+        "subTitle": "老花镜 成人光学镜",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/3A/AF/rBACW1sH0BmAQM8rAAA0tMx-P4Q641.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/3A/AA/rBACYVsH0CmABaqtAAAszOLOJV0323.jpg",
+        "isBorder": false,
+        "id": 1
+      }
+    ],
+    [{
+        "title": "LACOSTE制造商",
+        "subTitle": "商务鞋 棉袜",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/13/CE/rBACYVk_n6yAPglYAABRE2GzKrA504.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/13/A0/rBACW1k-N2WAI_-OAAAqPWmXvM4115.jpg",
+        "isBorder": true,
+        "id": 2
+      },
+      {
+        "title": "希尔顿酒店床品制造商",
+        "subTitle": "床品套件 枕头枕芯",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/01/F7/rBACW1kT4X2ATSuRAAA7qdy00fE775.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/13/B3/rBACW1k_TDOASOwFAACW13KQnYI907.jpg",
+        "isBorder": false,
+        "id": 3
+      }
+    ],
+    [{
+        "title": "BBA制造商",
+        "subTitle": "座垫脚垫 腰靠颈枕",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/46/EC/rBACVFthPJeAaSOZAACYeEBHKbA376.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/32/66/rBACYVq7WcKAfn_4AABw9yI1kQg293.jpg",
+        "isBorder": true,
+        "id": 4
+      },
+      {
+        "title": "NITORI制造商",
+        "subTitle": "收纳用品 美妆工具",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/44/37/rBACW1tNgcKAZp-VAACCwnztjk8121.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/15/FE/rBACVFl1S2KAYzSjAACNZ3Wpkec731.jpg",
+        "isBorder": false,
+        "id": 5
+      }
+    ]
+  ],
+  "informationTwo": [{
+      "title": "Givenchy制造商",
+      "subTitle": "T恤 针织衫",
+      "imgSrc": "https://bfs.biyao.com/group1/M00/21/D3/rBACYVoDvqOAVf-GAAJQgtO0Kg8270.jpg",
+      "isMargin": true,
+      "id": 6
+    },
+    {
+      "title": "华歌尔制造商",
+      "subTitle": "文胸/吊带 女士内裤",
+      "imgSrc": "https://bfs.biyao.com/group1/M00/1C/80/rBACYVm4xzaAX6RtAAC0CTXhF2Y807.jpg",
+      "isMargin": false,
+      "id": 7
+    }
+  ],
+  "informationThree": [
+    [{
+        "title": "乐高室内乐园制造商",
+        "subTitle": "儿童玩具 安全防护",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/5A/41/rBACW1uh6vyAcBp2AACeHFgmso0714.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/58/87/rBACVFuh6rOAWcO2AAB7tTZkfEY992.jpg",
+        "isBorder": true,
+        "id": 8
+      },
+      {
+        "title": "Joules制造商",
+        "subTitle": "婴儿服饰 睡衣/家居服",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/22/93/rBACW1oKxyaAZzoiAACXnMO-f8c995.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/01/F3/rBACYVkT4WqAB0XdAACT_iVcI6Q322.jpg",
+        "isBorder": false,
+        "id": 9
+      }
+    ],
+    [{
+        "title": "KOHLER制造商",
+        "subTitle": "厨卫配件 花洒/马桶",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/01/EC/rBACYVkT4USAFetMAABWK1ew5DE558.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/14/D9/rBACVFlkMo-AR_mOAABLpioNq18051.jpg",
+        "isBorder": true,
+        "id": 10
+      },
+      {
+        "title": "Hugo Boss制造商",
+        "subTitle": "衬衫 大衣",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/01/F1/rBACYVkT4WCAcaohAABdzxgei7c924.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/01/F2/rBACW1kT4WGACizKAABKXCFV9n8551.jpg",
+        "isBorder": false,
+        "id": 11
+      }
+    ],
+    [{
+        "title": "希尔顿产品制造商",
+        "subTitle": "茶具 垫毯/拖鞋",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/47/33/rBACYVtYF_uACKqhAABajUPNYTk025.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/25/28/rBACVFpDLmuAVrUGAAB5arBlCDI140.jpg",
+        "isBorder": true,
+        "id": 12
+      },
+      {
+        "title": "JOMA制造商",
+        "subTitle": "童鞋 休闲鞋",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/26/92/rBACW1pB-n6AekyOAACck4mNAz4559.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/01/F6/rBACW1kT4XuALCM1AACZn7RxP_s582.jpg",
+        "isBorder": false,
+        "id": 13
+      }
+    ]
+  ],
+  "informationFour": [{
+      "title": "BLUNT伞具制造商",
+      "subTitle": "雨伞/ 防晒 遮阳/雨伞",
+      "imgSrc": "https://bfs.biyao.com/group1/M00/0F/D7/rBACVFko1oWAT7DJAAIBZCd8YKg198.jpg",
+      "isMargin": true,
+      "id": 14
+    },
+    {
+      "title": "adidas制造商",
+      "subTitle": "短裤T恤 长裤健身服",
+      "imgSrc": "https://bfs.biyao.com/group1/M00/10/E8/rBACW1kebeGAWC1tAAEBZume4Tw102.jpg",
+      "isMargin": false,
+      "id": 15
+    }
+  ],
+  "informationFive": [
+    [{
+        "title": "德国SLV制造商",
+        "subTitle": "灯具",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/11/4D/rBACW1kk5U2AQUMTAAAuw6NfrtY422.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/1C/04/rBACVFnPOqCAJfclAAAWLsKwxeI785.jpg",
+        "isBorder": true,
+        "id": 16
+      },
+      {
+        "title": "Balenciaga制造商",
+        "subTitle": "休闲裤 外套马甲",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/1A/AE/rBACVFm2YOyAPgCtAACBTMD7E2c927.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/20/90/rBACW1n64LaAE2RoAABHqYFkXhg061.jpg",
+        "isBorder": false,
+        "id": 17
+      }
+    ],
+    [{
+        "title": "Samsonite制造商",
+        "subTitle": "拉杆箱 休闲/功能包",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/14/1A/rBACYVlCDN-AQSLgAACcQQaETAE201.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/24/04/rBACW1of0H6AHk1OAABT7JP-1YM721.jpg",
+        "isBorder": true,
+        "id": 18
+      },
+      {
+        "title": "COACH制造商",
+        "subTitle": "围巾 皮衣/夹克",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/5A/73/rBACVFuq7J6APUFHAAB_BPl_f6s487.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/23/25/rBACYVoSpgiASf0KAABn8Zpdspk647.jpg",
+        "isBorder": false,
+        "id": 19
+      }
+    ],
+    [{
+        "title": "丽思卡尔顿酒店制造商",
+        "subTitle": "床 床垫/床褥",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/1B/06/rBACYVmdNRaAMr_7AABxpG74J3s473.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/26/9D/rBACYVpCFQaAd-U5AAB5R3plaQs722.jpg",
+        "isBorder": true,
+        "id": 20
+      },
+      {
+        "title": "Prada制造商",
+        "subTitle": "单肩/斜挎包 钱包手包",
+        "imgSrc1": "https://bfs.biyao.com/group1/M00/69/4F/rBACYVvfnYiAQfE4AABp-IOnPLA657.jpg",
+        "imgSrc2": "https://bfs.biyao.com/group1/M00/63/7F/rBACW1vJn22AazjLAABBJw5rz70737.jpg",
+        "isBorder": false,
+        "id": 21
+      }
+    ]
+  ]
+}

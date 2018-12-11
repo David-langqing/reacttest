@@ -1,0 +1,288 @@
+[{
+    "floorTitle": "魅力女王",
+    "floorSubTitle": "Prada、Lancome等制造商直供",
+    "floorTwo": [{
+        "title": "日常穿搭",
+        "subTitle": "举手投足 尽是优雅",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/59/D7/rBACYVuglFGAEg9ZAADsXImHHIw351.jpg",
+        "isMargin": true,
+        "id": 22
+      },
+      {
+        "title": "精致内搭",
+        "subTitle": "兼顾品质与舒适",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/66/2B/rBACW1vS_HGAcEreAAFcQuHFqBQ250.jpg",
+        "isMargin": false,
+        "id": 23
+      }
+    ],
+    "floorThree": [{
+        "title": "足够精彩",
+        "subTitle": "让行走如沐春风",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/37/8A/rBACVFr9kLmARoboAACd1VmrW2E752.jpg",
+        "isBorder": true,
+        "id": 24
+      },
+      {
+        "title": "绝饰佳人",
+        "subTitle": "增添生活小乐趣",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/23/25/rBACYVoSpgiASf0KAABn8Zpdspk647.jpg",
+        "isBorder": true,
+        "id": 25
+      },
+      {
+        "title": "包你满意",
+        "subTitle": "每个包包都是艺术品",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/51/C0/rBACYVuF-0GAO7P4AACEnuxyFfo657.jpg",
+        "isBorder": false,
+        "id": 26
+      }
+    ]
+  },
+  {
+    "floorTitle": "男得好货",
+    "floorSubTitle": "Armani、Hugo Boss等制造商直供",
+    "floorTwo": [{
+        "title": "型男衣柜",
+        "subTitle": "穿出自信 彰显品位",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/66/BD/rBACVFvbuxCAYGbdAAHA91k2hYo746.jpg",
+        "isMargin": true,
+        "id": 27
+      },
+      {
+        "title": "品质男鞋",
+        "subTitle": "演绎行者艺术",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/0D/8B/rBACVFkZFe6ALHBXAAIs24gG8oQ652.jpg",
+        "isMargin": false,
+        "id": 28
+      }
+    ],
+    "floorThree": [{
+        "title": "3C数码",
+        "subTitle": "潮流酷玩 装备天地",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/00/3D/rBACVFkT4XyAE9mNAACaLm2bJCM186.jpg",
+        "isBorder": true,
+        "id": 29
+      },
+      {
+        "title": "个护保健",
+        "subTitle": "既酷也有内涵",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/01/E9/rBACYVkT4TOAA-MTAABhljmTn-o602.jpg",
+        "isBorder": true,
+        "id": 30
+      },
+      {
+        "title": "车载好物",
+        "subTitle": "老司机必备",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/34/7D/rBACYVrQLUGAFW12AAA-eqQuUoo683.jpg",
+        "isBorder": false,
+        "id": 31
+      }
+    ]
+  },
+  {
+    "floorTitle": "颜值好物",
+    "floorSubTitle": "WHOO后、欧舒丹等制造商直供",
+    "floorTwo": [{
+        "title": "无暇美肌",
+        "subTitle": "开启美丽新肌遇",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/1A/10/rBACW1mRPxiAdWwUAAC_xY0lIFY914.jpg",
+        "isMargin": true,
+        "id": 32
+      },
+      {
+        "title": "粉黛佳人",
+        "subTitle": "眉眼之间尽是温柔",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/58/C6/rBACVFui-kuAdhMGAAA6nHPiqJY856.jpg",
+        "isMargin": false,
+        "id": 33
+      }
+    ],
+    "floorThree": [{
+        "title": "美体护理",
+        "subTitle": "让你从头美到脚",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/27/B2/rBACVFpYRgSAa5q-AACZ1bE2P_k997.jpg",
+        "isBorder": true,
+        "id": 34
+      },
+      {
+        "title": "香氛蜜语",
+        "subTitle": "于无声处 最是撩人",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/5B/98/rBACYVuoOvOAS7fEAAA5q5hr5cw660.jpg",
+        "isBorder": true,
+        "id": 35
+      },
+      {
+        "title": "唇情动人",
+        "subTitle": "口若含朱丹",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/1D/A6/rBACVFnv5A-AfWhaAACQRdwKTDk136.jpg",
+        "isBorder": false,
+        "id": 36
+      }
+    ]
+  },
+  {
+    "floorTitle": "品质生活",
+    "floorSubTitle": "MUJI、HENKEL等制造商直供",
+    "floorTwo": [{
+        "title": "舒爽好眠",
+        "subTitle": "舒服睡眠那些事儿",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/01/FC/rBACYVkT4aaANI_XAAF42ajtxfg871.jpg",
+        "isMargin": true,
+        "id": 37
+      },
+      {
+        "title": "休闲饮食",
+        "subTitle": "唯有美食不可辜负",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/4B/C6/rBACYVtuxPeADlFrAAGno8WHHPQ156.jpg",
+        "isMargin": false,
+        "id": 38
+      }
+    ],
+    "floorThree": [{
+        "title": "茶具水具",
+        "subTitle": "喜欢你喝水的样子",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/57/47/rBACW1uXKdmABG-dAAA-kwgCqAM145.jpg",
+        "isBorder": true,
+        "id": 39
+      },
+      {
+        "title": "居家美物",
+        "subTitle": "提升居家幸福感",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/56/25/rBACW1uR74WAe_NqAACLZRdpKVQ973.jpg",
+        "isBorder": true,
+        "id": 40
+      },
+      {
+        "title": "收纳有序",
+        "subTitle": "让生活井井有条",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/65/F0/rBACW1vSerGAO7KGAAAtxTuurBs330.jpg",
+        "isBorder": false,
+        "id": 41
+      }
+    ]
+  },
+  {
+    "floorTitle": "运动户外",
+    "floorSubTitle": "PRINCE、Saucony等制造商直供",
+    "floorTwo": [{
+        "title": "去旅行",
+        "subTitle": "外面的世界很精彩",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/3B/88/rBACYVsPtcSAe4ciAAFfb2LKqUg259.jpg",
+        "isMargin": true,
+        "id": 42
+      },
+      {
+        "title": "畅快奔跑",
+        "subTitle": "有一种生活叫跑步",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/00/4D/rBACVFkT4fGAIEZmAAF0LH3Wke8318.jpg",
+        "isMargin": false,
+        "id": 43
+      }
+    ],
+    "floorThree": [{
+        "title": "运动穿搭",
+        "subTitle": "大家都夸我身材棒",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/67/E3/rBACW1vZa0KARTS0AACFiZH-el0809.jpg",
+        "isBorder": true,
+        "id": 44
+      },
+      {
+        "title": "运动装备",
+        "subTitle": "运动无极限",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/32/8C/rBACVFrNguGAAeskAAA19QmXYqU556.jpg",
+        "isBorder": true,
+        "id": 45
+      },
+      {
+        "title": "出行必备",
+        "subTitle": "无畏艳阳 无惧风雨",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/3D/98/rBACYVsjHSeAasZzAACGgs3ISlQ190.jpg",
+        "isBorder": false,
+        "id": 46
+      }
+    ]
+  },
+  {
+    "floorTitle": "居家物语",
+    "floorSubTitle": "WMF、ALL-Clad等制造商直供",
+    "floorTwo": [{
+        "title": "智能厨房",
+        "subTitle": "给爱的人一餐美味",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/2C/41/rBACW1pyi5-ASf6nAAFwJvMdKC4284.jpg",
+        "isMargin": true,
+        "id": 47
+      },
+      {
+        "title": "精品家电",
+        "subTitle": "给家添点新东西",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/39/40/rBACYVr-J1eAKGfgAAC4rw3XaeE196.jpg",
+        "isMargin": false,
+        "id": 48
+      }
+    ],
+    "floorThree": [{
+        "title": "洁净卧室",
+        "subTitle": "共筑浪漫与温馨",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/37/F9/rBACW1rypiSALEA_AAAlChS0uGk113.jpg",
+        "isBorder": true,
+        "id": 49
+      },
+      {
+        "title": "装修达人",
+        "subTitle": "家装小贴士",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/19/93/rBACW1mKxtuAYqVwAAA_CakA7GU209.jpg",
+        "isBorder": true,
+        "id": 50
+      },
+      {
+        "title": "精美客厅",
+        "subTitle": "家应有的模样",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/1E/03/rBACW1nbFAWABMowAAB6NA8H8Ks786.jpg",
+        "isBorder": false,
+        "id": 51
+      }
+    ]
+  },
+  {
+    "floorTitle": "家有萌娃",
+    "floorSubTitle": "乐高、LACOSTE等制造商直供",
+    "floorTwo": [{
+        "title": "童心童趣",
+        "subTitle": "许你一个精彩的童年",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/37/16/rBACW1rqb8yAX9lzAAI3xBkk-VE723.jpg",
+        "isMargin": true,
+        "id": 52
+      },
+      {
+        "title": "快乐成长",
+        "subTitle": "陪伴是最好的爱",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/01/FC/rBACYVkT4aiAFd9IAAIVFV_JBww327.jpg",
+        "isMargin": false,
+        "id": 53
+      }
+    ],
+    "floorThree": [{
+        "title": "亲亲宝贝",
+        "subTitle": "小萌娃的时尚感",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/34/FE/rBACYVrVvOaAIDM2AAA5J2y9CDk655.jpg",
+        "isBorder": true,
+        "id": 54
+      },
+      {
+        "title": "童装童鞋",
+        "subTitle": "出行美美哒",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/57/24/rBACVFucbv-Aag84AACau3AvYxE035.jpg",
+        "isBorder": true,
+        "id": 55
+      },
+      {
+        "title": "妈妈专区",
+        "subTitle": "自信时尚 美丽辣妈",
+        "imgSrc": "https://bfs.biyao.com/group1/M00/56/74/rBACVFuZ2HuAXmUeAABnzHruC6Q224.jpg",
+        "isBorder": false,
+        "id": 56
+      }
+    ]
+  }
+]
